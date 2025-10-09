@@ -1,7 +1,7 @@
 # Education Project
 
 
-> description of project
+> This project is looking at the relationship between ACT scores and socioeconomic factors of schools
 
 
 ---
