@@ -39,7 +39,8 @@ Provide a short and concise overview of the project. Mention the problem it solv
 ## Data
 
 
-- **Source:** 
+- **Source:** ed_gap data: https://raw.githubusercontent.com/brian-fischer/DATA-5100/main/EdGap_data.xlsx
+-             school_information data: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&e=1&dl=0
 - **Description:** Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
