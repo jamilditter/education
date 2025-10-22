@@ -17,7 +17,7 @@ This project seeks to determine whether socioeconomic factors are related to ave
 
 
 ```
-├── data/                 # Raw data
+├── data/                 # Raw and processed data
 ├── code/                 # Jupyter notebook
 ├── reports/              # Communication report
 ├── requirements.txt      # Dependencies
