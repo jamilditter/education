@@ -1,4 +1,4 @@
-# Education Project
+# Is There a Relationship Between Socioeconomic Factors and ACT Scores?
 
 
 > This project is looking at the relationship between ACT scores and socioeconomic factors of schools to see if there is a statistically significant relationship between them.
