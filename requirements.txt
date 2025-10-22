@@ -12,7 +12,6 @@ seaborn
 
 # Machine Learning
 scikit-learn
-statsmodels
 
 
 
@@ -20,4 +19,3 @@ statsmodels
 # Jupyter & Development
 jupyter
 notebook
-ipython
