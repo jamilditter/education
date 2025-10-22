@@ -31,9 +31,10 @@ This project seeks to determine whether socioeconomic factors are related to ave
 ## Data
 
 
-- **Source:** ed_gap data: https://raw.githubusercontent.com/brian-fischer/DATA-5100/main/EdGap_data.xlsx
--             school_information data: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&e=1&dl=0
--             student_teach_ratio data: 
+- **Source:** This data was sourced from NCES and EdGap.org.
+- ed_gap data: https://raw.githubusercontent.com/brian-fischer/DATA-5100/main/EdGap_data.xlsx
+- school_information data: https://www.dropbox.com/scl/fi/fkafjk8902sq8ptxh94r2/ccd_sch_029_1617_w_1a_11212017.csv?rlkey=gucrdz5f6e38bezz2y3yalxbw&e=1&dl=0
+- student_teach_ratio data: https://www.dropbox.com/home/SU/Classes/DATA_5100/education?preview=ccd_sch_029_1617_w_1a_11212017+(4).csv
 - **Description:** This data is all downloaded as csvs. The school_information and student_teach_ratio datasets were downloaded from NCES, while the ed_gap dataset was downloaded from EdGap.org.
 
 
